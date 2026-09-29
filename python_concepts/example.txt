@@ -1,0 +1,2 @@
+This will overwrite the existing content.
+This will append to the existing content.
