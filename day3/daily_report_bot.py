@@ -3,6 +3,7 @@
 # bot to launch this site   and get the gold price of bangalore and send it to the excel file
 #  https://ratestoday.in/gold-price-today/bangalore/
 
+# Output: daily_report_2023-06-01_12-00-00.xlsx stored in the Output folder with the current date and time in the filename
 
 from importlib.resources import path
 
